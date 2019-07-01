@@ -2,7 +2,7 @@
 
 import Drag from './drag';
 
-const drag = new Drag;
+const drag = new Drag();
 
 /* eslint-disable */
 let el = document.querySelector('body');
