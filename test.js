@@ -1,4 +1,4 @@
-// 大致使用dome
+// 大致使用demo
 
 import Drag from './drag';
 
