@@ -33,7 +33,7 @@ el.addEventListener(
       e.dataTransfer.dropEffect = 'copy';
     }
     drag.initFiles(e).then(files => {
-      console.log(file);
+      console.log(files);
       // 获得拖拽过来的文件一维数组信息
     });
   },
